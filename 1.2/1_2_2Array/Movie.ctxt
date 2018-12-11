@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Movie
+comment0.text=\r\n\ A\ movie\ to\ save\ to\ the\ library\r\n\ \r\n\ @author\ PLTW\r\n\ @version\ 3/5/16\r\n
+comment1.params=
+comment1.target=Movie()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Movie\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=t
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=int\ getRating()
+comment5.params=r
+comment5.target=void\ setRating(int)
+comment6.params=
+comment6.target=int\ getDuration()
+comment7.params=d
+comment7.target=void\ setDuration(int)
+comment8.params=
+comment8.target=void\ showHoursMinutes()
+numComments=9

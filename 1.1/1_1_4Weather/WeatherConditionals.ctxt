@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WeatherConditionals
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WeatherConditionals\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=WeatherConditionals()
+comment2.params=temperature\ description
+comment2.target=java.lang.String\ getWeatherAdvice(int,\ java.lang.String)
+comment3.params=condition
+comment3.target=int\ addCondition(java.lang.String)
+comment4.params=temp\ windchill\ humidity\ description
+comment4.target=java.lang.String\ getHikingAdvice(int,\ int,\ int,\ java.lang.String)
+numComments=5

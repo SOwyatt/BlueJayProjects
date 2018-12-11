@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Algorithms
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=songs
+comment2.target=void\ printSongs(Song[])
+comment3.params=songs
+comment3.target=Song[]\ findBest(Song[])
+comment4.params=songs\ rating
+comment4.target=Song[]\ findTies(Song[],\ int)
+numComments=5
